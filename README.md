@@ -26,10 +26,15 @@ Creating and verifying an INDEX
 Files Included
 
 Task3_SQL_Data_Analysis.sql — SQL queries used for the analysis
+
 Screenshot_1_GROUP_BY.png — GROUP BY query output
+
 Screenshot_2_JOIN.png — JOIN query output
+
 Screenshot_3_SUM_AVG.png — SUM and AVG output
+
 Screenshot_4_VIEW.png — VIEW query output
+
 Screenshot_5_INDEX.png — INDEX verification output
 Tools Used
 SQLite
